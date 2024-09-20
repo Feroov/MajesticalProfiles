@@ -1,2 +1,8 @@
-# AwesomeGithubProfiles
-Awesome GitHub Profiles is a collection of creative GitHub profile README templates, tips, and examples. Personalize your GitHub presence with unique designs, tutorials, and inspiration to build standout developer portfolios. Contribute your own or explore examples to showcase your skills.
+# Magestical Profiles
+
+A curated collection of developer GitHub profiles to spark your creativity.
+
+This repository takes inspiration from the Developer Portfolios GitHub repository.
+
+Enhance your profile and inspire others. If you find this useful, don't forget to leave a ⭐!
+<h2 align="center"></h2>
