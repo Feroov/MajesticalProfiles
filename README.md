@@ -51,204 +51,203 @@ Star the repo and create a pull request with your GitHub profile!
 
 | A               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
-| AbTrax          | <a href="https://github.com/AbTrax" target="_blank">AbTrax</a>               |
-| Adam Alston     | <a href="https://github.com/adamalston" target="_blank">adamalston</a>       |
-| Aficio          | <a href="https://github.com/afc163" target="_blank">afc163</a>               |
-| Ahsan Khan      | <a href="https://github.com/ahsankhan26" target="_blank">ahsankhan26</a>     |
-| Andrew Grant    | <a href="https://github.com/Andrew6rant" target="_blank">Andrew6rant</a>     |
-| Andy Ruwruw     | <a href="https://github.com/andyruwruw" target="_blank">andyruwruw</a>       |
+| AbTrax          | [AbTrax](https://github.com/AbTrax)               |
+| Adam Alston     | [adamalston](https://github.com/adamalston)       |
+| Aficio          | [afc163](https://github.com/afc163)               |
+| Ahsan Khan      | [ahsankhan26](https://github.com/ahsankhan26)     |
+| Andrew Grant    | [Andrew6rant](https://github.com/Andrew6rant)     |
+| Andy Ruwruw     | [andyruwruw](https://github.com/andyruwruw)       |
 <br/>
-
 
 <h3 id="b"></h3>
 
 | B               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
-| Bruno Tacca     | <a href="https://github.com/brunotacca" target="_blank">brunotacca</a>       |
+| Bruno Tacca     | [brunotacca](https://github.com/brunotacca)       |
 <br/>
 
 <h3 id="c"></h3>
 
 | C               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
-| Candida18       | <a href="https://github.com/Candida18" target="_blank">Candida18</a>         |
-| Carol42         | <a href="https://github.com/Carol42" target="_blank">Carol42</a>             |
-| chinmay29hub    | <a href="https://github.com/chinmay29hub" target="_blank">chinmay29hub</a>   |
+| Candida18       | [Candida18](https://github.com/Candida18)         |
+| Carol42         | [Carol42](https://github.com/Carol42)             |
+| chinmay29hub    | [chinmay29hub](https://github.com/chinmay29hub)   |
 <br/>
 
 <h3 id="d"></h3>
 
 | D               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
-| d-koppenhagen   | <a href="https://github.com/d-koppenhagen" target="_blank">d-koppenhagen</a> |
-| deep5050        | <a href="https://github.com/deep5050" target="_blank">deep5050</a>           |
-| onemohrtime     | <a href="https://github.com/onemohrtime" target="_blank">onemohrtime</a>     |
-| Dhruv-194       | <a href="https://github.com/Dhruv-194" target="_blank">Dhruv-194</a>         |
+| d-koppenhagen   | [d-koppenhagen](https://github.com/d-koppenhagen) |
+| deep5050        | [deep5050](https://github.com/deep5050)           |
+| onemohrtime     | [onemohrtime](https://github.com/onemohrtime)     |
+| Dhruv-194       | [Dhruv-194](https://github.com/Dhruv-194)         |
 <br/>
 
 <h3 id="e"></h3>
 
 | E               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
-| eagleanurag     | <a href="https://github.com/eagleanurag" target="_blank">eagleanurag</a>     |
-| ethomson        | <a href="https://github.com/ethomson" target="_blank">ethomson</a>           |
+| eagleanurag     | [eagleanurag](https://github.com/eagleanurag)     |
+| ethomson        | [ethomson](https://github.com/ethomson)           |
 <br/>
 
 <h3 id="f"></h3>
 
 | F               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
-| fnky            | <a href="https://github.com/fnky" target="_blank">fnky</a>                   |
+| fnky            | [fnky](https://github.com/fnky)                   |
 <br/>
 
 <h3 id="g"></h3>
 
 | G               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
-| guilyx          | <a href="https://github.com/guilyx" target="_blank">guilyx</a>               |
+| guilyx          | [guilyx](https://github.com/guilyx)               |
 <br/>
 
 <h3 id="h"></h3>
 
 | H               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
-| halfrost        | <a href="https://github.com/halfrost" target="_blank">halfrost</a>           |
+| halfrost        | [halfrost](https://github.com/halfrost)           |
 <br/>
 
 <h3 id="i"></h3>
 
 | I               | GitHub Profile                                      |
 | --------------- | --------------------------------------------------- |
-| Ileriayo        | <a href="https://github.com/Ileriayo" target="_blank">Ileriayo</a>             |
-| iampavangandhi  | <a href="https://github.com/iampavangandhi" target="_blank">iampavangandhi</a> |
+| Ileriayo        | [Ileriayo](https://github.com/Ileriayo)             |
+| iampavangandhi  | [iampavangandhi](https://github.com/iampavangandhi) |
 <br/>
 
 <h3 id="j"></h3>
 
 | J               | GitHub Profile                                      |
 | --------------- | --------------------------------------------------- |
-| jgphilpot       | <a href="https://github.com/jgphilpott" target="_blank">jgphilpott</a>         |
-| jh3y            | <a href="https://github.com/jh3y" target="_blank">jh3y</a>                     |
-| JessicaLim8     | <a href="https://github.com/JessicaLim8" target="_blank">JessicaLim8</a>       |
+| jgphilpot       | [jgphilpott](https://github.com/jgphilpott)         |
+| jh3y            | [jh3y](https://github.com/jh3y)                     |
+| JessicaLim8     | [JessicaLim8](https://github.com/JessicaLim8)       |
 <br/>
 
 <h3 id="k"></h3>
 
 | K               | GitHub Profile                                      |
 | --------------- | --------------------------------------------------- |
-| KelviNosse      | <a href="https://github.com/KelviNosse" target="_blank">KelviNosse</a>         |
-| krishnapriya-n  | <a href="https://github.com/krishnapriya-n" target="_blank">krishnapriya-n</a> |
+| KelviNosse      | [KelviNosse](https://github.com/KelviNosse)         |
+| krishnapriya-n  | [krishnapriya-n](https://github.com/krishnapriya-n) |
 <br/>
 
 <h3 id="l"></h3>
 
 | L               | GitHub Profile                                      |
 | --------------- | --------------------------------------------------- |
-| lucasvazq       | <a href="https://github.com/lucasvazq" target="_blank">lucasvazq</a>           |
-| lowlighter      | <a href="https://github.com/lowlighter" target="_blank">lowlighter</a>         |
+| lucasvazq       | [lucasvazq](https://github.com/lucasvazq)           |
+| lowlighter      | [lowlighter](https://github.com/lowlighter)         |
 <br/>
 
 <h3 id="m"></h3>
 
 | M               | GitHub Profile                                      |
 | --------------- | --------------------------------------------------- |
-| montasim        | <a href="https://github.com/montasim" target="_blank">montasim</a>             |
-| MartinHeinz     | <a href="https://github.com/MartinHeinz" target="_blank">MartinHeinz</a>       |
-| Mokkapps        | <a href="https://github.com/Mokkapps" target="_blank">Mokkapps</a>             | 
+| montasim        | [montasim](https://github.com/montasim)             |
+| MartinHeinz     | [MartinHeinz](https://github.com/MartinHeinz)       |
+| Mokkapps        | [Mokkapps](https://github.com/Mokkapps)             | 
 <br/>
 
 <h3 id="n"></h3>
 
 | N               | GitHub Profile                                      |
 | --------------- | --------------------------------------------------- |
-| nurofsun        | <a href="https://github.com/nurofsun" target="_blank">nurofsun</a>             |
+| nurofsun        | [nurofsun](https://github.com/nurofsun)             |
 <br/>
 
 <h3 id="o"></h3>
 
 | O                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
-| ozefe             | <a href="https://github.com/ozefe" target="_blank">ozefe</a>                        |
-| oyepriyans        | <a href="https://github.com/oyepriyansh" target="_blank">oyepriyansh</a>            |
-| oussamabouchikhi  | <a href="https://github.com/oussamabouchikhi" target="_blank">oussamabouchikhi</a>  |
-| ovflowd           | <a href="https://github.com/ovflowd" target="_blank">ovflowd</a>                    |
+| ozefe             | [ozefe](https://github.com/ozefe)                        |
+| oyepriyans        | [oyepriyansh](https://github.com/oyepriyansh)            |
+| oussamabouchikhi  | [oussamabouchikhi](https://github.com/oussamabouchikhi)  |
+| ovflowd           | [ovflowd](https://github.com/ovflowd)                    |
 <br/>
 
 <h3 id="p"></h3>
 
 | P                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
-| proghead00        | <a href="https://github.com/proghead00" target="_blank">proghead00</a>              |
-| PluckyPrecious    | <a href="https://github.com/PluckyPrecious" target="_blank">PluckyPrecious</a>      |
+| proghead00        | [proghead00](https://github.com/proghead00)              |
+| PluckyPrecious    | [PluckyPrecious](https://github.com/PluckyPrecious)      |
 <br/>
 
 <h3 id="q"></h3>
 
 | Q                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
-| Qiamast           | <a href="https://github.com/Qiamast" target="_blank">Qiamast</a>                    |
+| Qiamast           | [Qiamast](https://github.com/Qiamast)                    |
 <br/>
 
 <h3 id="r"></h3>
 
 | R                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
-| Ragdata           | <a href="https://github.com/Ragdata" target="_blank">Ragdata</a>                    |
-| rafnixg           | <a href="https://github.com/rafnixg" target="_blank">rafnixg</a>                    |
-| Raymo111          | <a href="https://github.com/Raymo111" target="_blank">Raymo111</a>                  |
-| Raray-chuan       | <a href="https://github.com/Raray-chuan" target="_blank">Raray-chuan</a>            |
+| Ragdata           | [Ragdata](https://github.com/Ragdata)                    |
+| rafnixg           | [rafnixg](https://github.com/rafnixg)                    |
+| Raymo111          | [Raymo111](https://github.com/Raymo111)                  |
+| Raray-chuan       | [Raray-chuan](https://github.com/Raray-chuan)            |
 <br/>
 
 <h3 id="s"></h3>
 
 | S                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
-| Sisodiya2421      | <a href="https://github.com/sisodiya2421" target="_blank">sisodiya2421</a>          |
-| sindresorhus      | <a href="https://github.com/sindresorhus" target="_blank">sindresorhus</a>          |
-| SP-XD             | <a href="https://github.com/SP-XD" target="_blank">SP-XD</a>                        |
-| Sumanth-Talluri   | <a href="https://github.com/Sumanth-Talluri" target="_blank">Sumanth-Talluri</a>    |
-| syrashid          | <a href="https://github.com/syrashid" target="_blank">syrashid</a>                  |
-| saadeghi          | <a href="https://github.com/saadeghi" target="_blank">saadeghi</a>                  |
+| Sisodiya2421      | [sisodiya2421](https://github.com/sisodiya2421)          |
+| sindresorhus      | [sindresorhus](https://github.com/sindresorhus)          |
+| SP-XD             | [SP-XD](https://github.com/SP-XD)                        |
+| Sumanth-Talluri   | [Sumanth-Talluri](https://github.com/Sumanth-Talluri)    |
+| syrashid          | [syrashid](https://github.com/syrashid)                  |
+| saadeghi          | [saadeghi](https://github.com/saadeghi)                  |
 <br/>
 
 <h3 id="t"></h3>
 
 | T                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
-| Trilokia          | <a href="https://github.com/Trilokia" target="_blank">Trilokia</a>                  |
-| trinib            | <a href="https://github.com/trinib" target="_blank">trinib</a>                      |
-| Taucher2003       | <a href="https://github.com/Taucher2003" target="_blank">Taucher2003</a>            |
+| Trilokia          | [Trilokia](https://github.com/Trilokia)                  |
+| trinib            | [trinib](https://github.com/trinib)                      |
+| Taucher2003       | [Taucher2003](https://github.com/Taucher2003)            |
 <br/>
 
 <h3 id="w"></h3>
 
 | W                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
-| WaylonWalker      | <a href="https://github.com/WaylonWalker" target="_blank">WaylonWalker</a>          |
-| warengonzaga      | <a href="https://github.com/warengonzaga" target="_blank">warengonzaga</a>          |
-| wrapperup         | <a href="https://github.com/wrapperup" target="_blank">wrapperup</a>                |
+| WaylonWalker      | [WaylonWalker](https://github.com/WaylonWalker)          |
+| warengonzaga      | [warengonzaga](https://github.com/warengonzaga)          |
+| wrapperup         | [wrapperup](https://github.com/wrapperup)                |
 <br/>
 
 <h3 id="x"></h3>
 
 | X                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
-| XanderRubio       | <a href="https://github.com/XanderRubio" target="_blank">XanderRubio</a>            |
+| XanderRubio       | [XanderRubio](https://github.com/XanderRubio)            |
 <br/>
 
 <h3 id="y"></h3>
 
 | Y                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
-| yutkat            | <a href="https://github.com/yutkat" target="_blank">yutkat</a>                      |
+| yutkat            | [yutkat](https://github.com/yutkat)                      |
 <br/>
 
 <h3 id="z"></h3>
 
 | Z                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
-| zephyrus21        | <a href="https://github.com/zephyrus21" target="_blank">zephyrus21</a>              | 
-| zumrudu-anka      | <a href="https://github.com/zumrudu-anka" target="_blank">zumrudu-anka</a>          |
+| zephyrus21        | [zephyrus21](https://github.com/zephyrus21)              | 
+| zumrudu-anka      | [zumrudu-anka](https://github.com/zumrudu-anka)          |
 <br/>
 
 
