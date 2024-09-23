@@ -1,10 +1,18 @@
-# Majestical Profiles
+<h1 align="center">Majestical Profiles</h1>
 
+<p align="center">
 A curated collection of developer GitHub profiles to spark your creativity.
+</p>
 
-This repository takes inspiration from the Developer Portfolios GitHub repository.
-
+<p align="center">
 Enhance your profile and inspire others. If you find this useful, don't forget to leave a ⭐!
+</p>
+
+<p align="center">
+🌟 <b>Want to see your profile listed here?</b> 🌟 <br>
+Star the repo and create a pull request with your GitHub profile!
+</p>
+
 
 <h2 align="center">Jump to:</h2>
 
@@ -39,7 +47,7 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 
 ### 🌟 Featured Profiles
 
-<h3 id="a">A</h3>
+<h3 id="a"></h3>
 
 | A               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
@@ -51,14 +59,14 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 | Andy Ruwruw     | [andyruwruw](https://github.com/andyruwruw)       |
 <br/>
 
-<h3 id="b">B</h3>
+<h3 id="b"></h3>
 
 | B               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
 | Bruno Tacca     | [brunotacca](https://github.com/brunotacca)       |
 <br/>
 
-<h3 id="c">C</h3>
+<h3 id="c"></h3>
 
 | C               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
@@ -67,7 +75,7 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 | chinmay29hub    | [chinmay29hub](https://github.com/chinmay29hub)   |
 <br/>
 
-<h3 id="d">D</h3>
+<h3 id="d"></h3>
 
 | D               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
@@ -77,7 +85,7 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 | Dhruv-194       | [Dhruv-194](https://github.com/Dhruv-194)         |
 <br/>
 
-<h3 id="e">E</h3>
+<h3 id="e"></h3>
 
 | E               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
@@ -85,28 +93,28 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 | ethomson        | [ethomson](https://github.com/ethomson)           |
 <br/>
 
-<h3 id="f">F</h3>
+<h3 id="f"></h3>
 
 | F               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
 | fnky            | [fnky](https://github.com/fnky)                   |
 <br/>
 
-<h3 id="g">G</h3>
+<h3 id="g"></h3>
 
 | G               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
 | guilyx          | [guilyx](https://github.com/guilyx)               |
 <br/>
 
-<h3 id="h">H</h3>
+<h3 id="h"></h3>
 
 | H               | GitHub Profile                                    |
 | --------------- | ------------------------------------------------- |
 | halfrost        | [halfrost](https://github.com/halfrost)           |
 <br/>
 
-<h3 id="i">I</h3>
+<h3 id="i"></h3>
 
 | I               | GitHub Profile                                      |
 | --------------- | --------------------------------------------------- |
@@ -114,7 +122,7 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 | iampavangandhi  | [iampavangandhi](https://github.com/iampavangandhi) |
 <br/>
 
-<h3 id="j">J</h3>
+<h3 id="j"></h3>
 
 | J               | GitHub Profile                                      |
 | --------------- | --------------------------------------------------- |
@@ -123,7 +131,7 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 | JessicaLim8     | [JessicaLim8](https://github.com/JessicaLim8)       |
 <br/>
 
-<h3 id="k">K</h3>
+<h3 id="k"></h3>
 
 | K               | GitHub Profile                                      |
 | --------------- | --------------------------------------------------- |
@@ -131,7 +139,7 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 | krishnapriya-n  | [krishnapriya-n](https://github.com/krishnapriya-n) |
 <br/>
 
-<h3 id="l">L</h3>
+<h3 id="l"></h3>
 
 | L               | GitHub Profile                                      |
 | --------------- | --------------------------------------------------- |
@@ -139,7 +147,7 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 | lowlighter      | [lowlighter](https://github.com/lowlighter)         |
 <br/>
 
-<h3 id="m">M</h3>
+<h3 id="m"></h3>
 
 | M               | GitHub Profile                                      |
 | --------------- | --------------------------------------------------- |
@@ -148,14 +156,14 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 | Mokkapps        | [Mokkapps](https://github.com/Mokkapps)             | 
 <br/>
 
-<h3 id="n">N</h3>
+<h3 id="n"></h3>
 
 | N               | GitHub Profile                                      |
 | --------------- | --------------------------------------------------- |
 | nurofsun        | [nurofsun](https://github.com/nurofsun)             |
 <br/>
 
-<h3 id="o">O</h3>
+<h3 id="o"></h3>
 
 | O                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
@@ -165,7 +173,7 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 | ovflowd           | [ovflowd](https://github.com/ovflowd)                    |
 <br/>
 
-<h3 id="p">P</h3>
+<h3 id="p"></h3>
 
 | P                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
@@ -173,14 +181,14 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 | PluckyPrecious    | [PluckyPrecious](https://github.com/PluckyPrecious)      |
 <br/>
 
-<h3 id="q">Q</h3>
+<h3 id="q"></h3>
 
 | Q                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
 | Qiamast           | [Qiamast](https://github.com/Qiamast)                    |
 <br/>
 
-<h3 id="r">R</h3>
+<h3 id="r"></h3>
 
 | R                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
@@ -190,7 +198,7 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 | Raray-chuan       | [Raray-chuan](https://github.com/Raray-chuan)            |
 <br/>
 
-<h3 id="s">S</h3>
+<h3 id="s"></h3>
 
 | S                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
@@ -202,7 +210,7 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 | saadeghi          | [saadeghi](https://github.com/saadeghi)                  |
 <br/>
 
-<h3 id="t">T</h3>
+<h3 id="t"></h3>
 
 | T                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
@@ -211,7 +219,7 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 | Taucher2003       | [Taucher2003](https://github.com/Taucher2003)            |
 <br/>
 
-<h3 id="w">W</h3>
+<h3 id="w"></h3>
 
 | W                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
@@ -220,21 +228,21 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 | wrapperup         | [wrapperup](https://github.com/wrapperup)                |
 <br/>
 
-<h3 id="x">X</h3>
+<h3 id="x"></h3>
 
 | X                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
 | XanderRubio       | [XanderRubio](https://github.com/XanderRubio)            |
 <br/>
 
-<h3 id="y">Y</h3>
+<h3 id="y"></h3>
 
 | Y                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
 | yutkat            | [yutkat](https://github.com/yutkat)                      |
 <br/>
 
-<h3 id="z">Z</h3>
+<h3 id="z"></h3>
 
 | Z                 | GitHub Profile                                           |
 | ---------------   | ---------------------------------------------------      |
@@ -247,7 +255,8 @@ Enhance your profile and inspire others. If you find this useful, don't forget t
 🌟 **Tip:** Want to make your GitHub profile stand out? Follow [GitHub’s guide](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) to add a README to your profile!
 
 If you find this helpful, don't forget to ⭐ the repo!
-
+<br/>
+<br/>
 <p align="center">
   <a href="#Majestical-Profiles">🔼 Back to top</a>
 </p>
